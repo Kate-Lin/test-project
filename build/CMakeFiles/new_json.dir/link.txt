@@ -1,0 +1,1 @@
+/opt/rh/devtoolset-9/root/usr/bin/g++  -std=c++11 -g   CMakeFiles/new_json.dir/src/application.cpp.o CMakeFiles/new_json.dir/src/main.cpp.o CMakeFiles/new_json.dir/jsonsrc/json_reader.cpp.o CMakeFiles/new_json.dir/jsonsrc/json_value.cpp.o CMakeFiles/new_json.dir/jsonsrc/json_writer.cpp.o  -o new_json  -lpthread -lboost_system 

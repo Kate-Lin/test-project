@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/root/cppjson/new_json/build",
+  "command": "/opt/rh/devtoolset-9/root/usr/bin/g++   -I/root/cppjson/new_json/include -I/root/cppjson/new_json/jsonhead  -std=c++11 -g   -o CMakeFiles/new_json.dir/src/application.cpp.o -c /root/cppjson/new_json/src/application.cpp",
+  "file": "/root/cppjson/new_json/src/application.cpp"
+},
+{
+  "directory": "/root/cppjson/new_json/build",
+  "command": "/opt/rh/devtoolset-9/root/usr/bin/g++   -I/root/cppjson/new_json/include -I/root/cppjson/new_json/jsonhead  -std=c++11 -g   -o CMakeFiles/new_json.dir/src/main.cpp.o -c /root/cppjson/new_json/src/main.cpp",
+  "file": "/root/cppjson/new_json/src/main.cpp"
+},
+{
+  "directory": "/root/cppjson/new_json/build",
+  "command": "/opt/rh/devtoolset-9/root/usr/bin/g++   -I/root/cppjson/new_json/include -I/root/cppjson/new_json/jsonhead  -std=c++11 -g   -o CMakeFiles/new_json.dir/jsonsrc/json_reader.cpp.o -c /root/cppjson/new_json/jsonsrc/json_reader.cpp",
+  "file": "/root/cppjson/new_json/jsonsrc/json_reader.cpp"
+},
+{
+  "directory": "/root/cppjson/new_json/build",
+  "command": "/opt/rh/devtoolset-9/root/usr/bin/g++   -I/root/cppjson/new_json/include -I/root/cppjson/new_json/jsonhead  -std=c++11 -g   -o CMakeFiles/new_json.dir/jsonsrc/json_value.cpp.o -c /root/cppjson/new_json/jsonsrc/json_value.cpp",
+  "file": "/root/cppjson/new_json/jsonsrc/json_value.cpp"
+},
+{
+  "directory": "/root/cppjson/new_json/build",
+  "command": "/opt/rh/devtoolset-9/root/usr/bin/g++   -I/root/cppjson/new_json/include -I/root/cppjson/new_json/jsonhead  -std=c++11 -g   -o CMakeFiles/new_json.dir/jsonsrc/json_writer.cpp.o -c /root/cppjson/new_json/jsonsrc/json_writer.cpp",
+  "file": "/root/cppjson/new_json/jsonsrc/json_writer.cpp"
+}
+]
